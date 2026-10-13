@@ -26,7 +26,7 @@ Cada proyecto es una oportunidad para aprender algo nuevo 🌱 — desde resolve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,django,laravel,mysql,mariadb,git,github,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,django,laravel,mysql,github&theme=light" />
 
 </div>
 
